@@ -1,10 +1,10 @@
 ---
-title: Progress of Language Model until ELMO
+title: Indocollex- A testbed for morphological transformation of indonesian word colloquialism
 
-event: Community of Machine Learning ID
+event: IR Lab UI
 # event_url: https://example.org
 
-location: Kata.ai
+location: IR Lab Faculty of Computer Science University of Indonesia
 # address:
 #   street: 450 Serra Mall
 #   city: Stanford
@@ -12,12 +12,12 @@ location: Kata.ai
 #   postcode: '94305'
 #   country: United States
 
-summary: Shared about Progress of Language modelling until ELMO
+summary: Shared about Indo Collex
 abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2020-06-01T13:00:00Z'
+date: '2021-09-01T13:00:00Z'
 # date_end: '2030-06-01T15:00:00Z'
 all_day: true
 

@@ -1,39 +1,30 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Haryo Akbarianto Wibowo
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Builder on Artificial Intelligence Field
 
 # Organizations/Affiliations to show in About widget
-organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Researcher and Engineer in Artificial Intelligence, especially in NLP Deep Learning. Love to learn and share.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Natural Language Processing - Style Transfer
+  - Natural Language Processing - Transfer Learning
+  - Natural Language Processing - Low Resource
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BSc in Computer Science
+      institution: University of Indonesia
+      year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -43,18 +34,21 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=X5tK6xsAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/haryoa
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/haryoaw/
+  - icon: blog
+    icon_pack: fas
+    link: https://haryoa.github.io/
+  - icon: medium
+    icon_pack: fab
+    link: https://medium.com/@haryoaw
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -64,14 +58,15 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'haryo.akbarianto@gmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an experienced AI Practitioner in Industry for Natural Language Processing and Computer Vision fields. Bachelor of Computer Science with a hobby of experimenting and reading article about Artificial Intelligence in my free time. Have a good knowledge about Artificial Intelligence, Machine Learning, Natural Language Processing, Deep Learning, and a bit of Web Development. Currently, I am going to go deep in NLP field and research. You can see my research interests below. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Aside of that, I am also loves to contribute on building something that is useful for everyone. Currently doing project with my friend to build something useful for application developer.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Passionate to contribute to the society in the world especially with Artificial Intelligence. Write actively at my blog especially about Artificial Intelligence. Love to learn and want to make myself better as a person continuously. 
+

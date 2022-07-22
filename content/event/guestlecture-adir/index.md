@@ -1,10 +1,10 @@
 ---
-title: Progress of Language Model until ELMO
+title: Guest Lecture - Machine Learning for Text - Things I wish I knew in my College Life
 
-event: Community of Machine Learning ID
+event: University of Indonesia - AI and Data Science Guest Lecture
 # event_url: https://example.org
 
-location: Kata.ai
+location: University of Indonesia
 # address:
 #   street: 450 Serra Mall
 #   city: Stanford
@@ -12,13 +12,13 @@ location: Kata.ai
 #   postcode: '94305'
 #   country: United States
 
-summary: Shared about Progress of Language modelling until ELMO
+summary: Guest Lecture on utilizing Machine Learning for Text
 abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2020-06-01T13:00:00Z'
-# date_end: '2030-06-01T15:00:00Z'
+date: '2021-06-07T13:00:00Z'
+date_end: '2021-06-07T14:30:00Z'
 all_day: true
 
 # Schedule page publish date (NOT talk date).

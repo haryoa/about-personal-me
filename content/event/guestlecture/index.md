@@ -1,10 +1,10 @@
 ---
-title: Progress of Language Model until ELMO
+title: Retrieval Systems in the Wild - Two Use Cases
 
-event: Community of Machine Learning ID
+event: Guest Lecture for the Advanced Information Retrieval Course
 # event_url: https://example.org
 
-location: Kata.ai
+location: University of Indonesia
 # address:
 #   street: 450 Serra Mall
 #   city: Stanford
@@ -12,13 +12,13 @@ location: Kata.ai
 #   postcode: '94305'
 #   country: United States
 
-summary: Shared about Progress of Language modelling until ELMO
+summary: Guest Lecture for the Advanced Information Retrieval Course
 abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2020-06-01T13:00:00Z'
-# date_end: '2030-06-01T15:00:00Z'
+date: '2022-05-22T13:00:00Z'
+# date_end: '2021-06-22T14:30:00Z'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
@@ -41,7 +41,7 @@ image:
 #     url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
-url_slides: ''
+url_slides: 'https://haryoa.github.io/posts/example-ir-systems/'
 url_video: ''
 
 # Markdown Slides (optional).
