@@ -18,6 +18,7 @@ interests:
   - Natural Language Processing - Style Transfer
   - Natural Language Processing - Transfer Learning
   - Natural Language Processing - Low Resource
+  - Probing and Get Explainability of a model
 
 # Education to show in About widget
 education:
@@ -70,3 +71,10 @@ Aside of that, I am also loves to contribute on building something that is usefu
 
 Passionate to contribute to the society in the world especially with Artificial Intelligence. Write actively at my blog especially about Artificial Intelligence. Love to learn and want to make myself better as a person continuously. 
 
+## Research Thoughts
+
+I am interested in creating model that can output a controllable text (i.e.: style transfer). To do it, I believe we need a way to train the model that is able to output a robust global representation that can be tweaked (i.e.: **latent variable**). This problem is a challenge for the NLP research community. I am eager to help solve it.
+
+I am also interested in finding the efficiency and explainability of Transfer Learning. Many papers in NLP have different ways of training a language model. It intrigues me to think about the learning process. I believe that crafting a way to train a model is similar to creating a syllabus for students, where if you have a good syllabus, it will make students learn efficiently. It would be good if we have explainability about the learning itself, so the research community will have better feedback on what to improve.
+
+I come from a country that had under-represented data and models. I could feel the pain of finding them to research NLP. Available resources are in English and another popular language. This problem is the struggle of the researcher that resides in the country. Furthermore, current progress on the model in NLP tends to make a bigger model. For our country, which is not as rich as a developed country, the researchers cannot follow that trend. Thus, we need to create a low resource model that is efficient and still good to be used and explored. I want to create an opportunity for anyone to have a low-barrier entry to contribute to the NLP research society by solving the low resource problems of data and models. 
